@@ -7,3 +7,7 @@
 ### Day 1: May 6, 2020
 
 **Today's Progress**: Learned basics and implemented EC2, EBS, S3, VPC, Security groups, Application load balancer, Auto Scaling and watched few AWS reinvent talks to understand AWS use cases.
+
+### Day 2: May 7, 2020
+
+**Today's Progress**: Learned about Route 53, RDS, Lambda functions, Elastic Beanstalk, SNS, CloudWatch, Cloud front, Cloud Formation, Amazon architecture and design principles, Auto Shield, and AWS Security (Shared responsibility, IAM, Inspector, Shield)
