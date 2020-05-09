@@ -11,3 +11,7 @@
 ### Day 2: May 7, 2020
 
 **Today's Progress**: Learned about Route 53, RDS, Lambda functions, Elastic Beanstalk, SNS, CloudWatch, Cloud front, Cloud Formation, Amazon architecture and design principles, Auto Shield, and AWS Security (Shared responsibility, IAM, Inspector, Shield)
+
+### Day 3: May 8, 2020
+
+**Today's Progress**: Learned about AWS Pricing and support, attempted the AWS practice test and scored 85%, Started [Cloud Practitioner](https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-exam) path on LinkedIn Learning.  
