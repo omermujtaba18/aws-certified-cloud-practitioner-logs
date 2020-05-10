@@ -15,3 +15,7 @@
 ### Day 3: May 8, 2020
 
 **Today's Progress**: Learned about AWS Pricing and support, attempted the AWS practice test and scored 85%, Started [Cloud Practitioner](https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-exam) path on LinkedIn Learning.  
+
+### Day 4: May 9, 2020
+
+**Today's Progress**: Learned about LightSale, Snowball and Storage gateway. Revised security, compute and storage services.
