@@ -19,3 +19,7 @@
 ### Day 4: May 9, 2020
 
 **Today's Progress**: Learned about LightSale, Snowball and Storage gateway. Revised security, compute and storage services.
+
+### Day 5: May 10, 2020
+
+**Today's Progress**: Revised billing and support. All set for exam today!
