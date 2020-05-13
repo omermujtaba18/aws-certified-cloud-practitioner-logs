@@ -3,6 +3,7 @@
 This is the log of my AWS certified cloud practitioner certification. 
 
 **Start Date**: May 5, 2020
+
 **End Date**: May 11, 2020
 
 ### Resources
