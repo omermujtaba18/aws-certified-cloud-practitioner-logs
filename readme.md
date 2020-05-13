@@ -2,7 +2,7 @@
 
 This is the log of my AWS certified cloud practitioner certification. 
 
-###Prepartion Time
+### Prepartion Time
 6 Days
 
 ### Resources
