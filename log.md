@@ -28,4 +28,4 @@
 
 **Today's Progress**: Passed the AWS Certified Cloud Practitioner certification. 
 
-**Link:** [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/6544aa0c-29f8-4a53-a4b5-9062fd13c01c/public_url)
+**Certificate:** [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/6544aa0c-29f8-4a53-a4b5-9062fd13c01c/public_url)
