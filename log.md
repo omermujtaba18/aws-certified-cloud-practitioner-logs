@@ -23,3 +23,9 @@
 ### Day 5: May 10, 2020
 
 **Today's Progress**: Revised billing and support. All set for exam today!
+
+### Day 6: May 11, 2020
+
+**Today's Progress**: Passed the AWS Certified Cloud Practitioner certification. 
+
+**Link:** [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/6544aa0c-29f8-4a53-a4b5-9062fd13c01c/public_url)
